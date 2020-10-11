@@ -1,1 +1,1 @@
-# next-numbers-girl
+A Telecom Churn project based on Predictive Modeling. The project mainly focusses on Exploratory analysis and the various models needed to arrive at a proper analysis. The complete project with the R code is given here. 
